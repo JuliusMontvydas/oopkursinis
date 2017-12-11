@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1512911244 source:c:\users\julius\documents\c++\sliding puzzle\main.cpp
+	"Zaidimas.h"
+
+1512656197 c:\users\julius\documents\c++\sliding puzzle\include\zaidimas.h
+	<string>
+
+1512911216 source:c:\users\julius\documents\c++\sliding puzzle\src\zaidimas.cpp
+	"Zaidimas.h"
+	<iostream>
+	<string>
+	<time.h>
+	<stdlib.h>
+	<algorithm>
+
